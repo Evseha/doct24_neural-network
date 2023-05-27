@@ -26,3 +26,5 @@ tokenizer.pickle - частный словарь.
 
 Исследование качества прогноза других моделей того же признака с учетом погрешности.
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/other_model_result.png)
+
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/other_results.md'> Больше результатов по другим признакам </a> 
