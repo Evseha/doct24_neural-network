@@ -9,6 +9,9 @@ model.h5  - модель.</br>
 model.py -  алгоритм предобработки сырых данных для подачи в нейронную сеть. Принимает текст диагноза. Так же вызывает модель и возвращает результат.</br>
 tokenizer.pickle - частный словарь.
 
+</br></br>Частота заполнения данных о пациенте.</br>
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/df_null.png)
+
 Результат обучения моделей нейронных сетей на разных признаках.
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/all.png)
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/all1.png)
