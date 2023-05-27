@@ -1,9 +1,9 @@
 # Предсказание врожденного порога сердца у детей
 
-<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/VPS_kids-binary-Diagnosis.ipynb'> Прогностическая модель </a> </br>
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/main.ipynb'> Прогностическая модель </a> </br>
 <a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/Notebook.ipynb'> Применение </a> 
 
-VPS_kids-binary-Diagnosis.ipynb - проект, процесс обучения.</br>
+main.ipynb - проект, процесс исследования и обучения модели.</br>
 Notebook.ipynb  - пример работы.</br>
 model.h5  - модель.</br>
 model.py -  алгоритм предобработки сырых данных для подачи в нейронную сеть. Принимает текст диагноза. Так же вызывает модель и возвращает результат.</br>
