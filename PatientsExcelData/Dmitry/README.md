@@ -1,4 +1,28 @@
-# Projects
+# Предсказание врожденного порога сердца у детей
 
-Наименование проекта 
-<a href='https://github.com/DmitryTatarintsev/My_repository/tree/main/3'>Примеры sql запросов.</a> Не проект 
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/VPS_kids-binary-Diagnosis.ipynb'> Прогностическая модель </a> </br>
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/Notebook.ipynb'> Применение </a> 
+
+VPS_kids-binary-Diagnosis.ipynb - проект, процесс обучения.</br>
+Notebook.ipynb  - пример работы.</br>
+model.h5  - модель.</br>
+model.py -  алгоритм предобработки сырых данных для подачи в нейронную сеть. Принимает текст диагноза. Так же вызывает модель и возвращает результат.</br>
+tokenizer.pickle - частный словарь.
+
+Результат обучения моделей нейронных сетей на разных признаках.
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/all.png)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/all1.png)
+
+В итоге, выбрали и обучили модель нейронной сети только на признаке Diagnosis
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/train_result.png)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/embedding_model.png)
+</br> Верно опредленно: </br>
+99% -  отсутствие порога сердца </br>
+89% - порог сердца</br>
+</br>
+Итоговая точность прогноза модели: 94%
+
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/cm_all.png)
+
+Исследование качества прогноза других моделей того же признака с учетом погрешности.
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/other_model_result.png)
