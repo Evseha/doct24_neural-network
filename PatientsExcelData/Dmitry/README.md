@@ -1,7 +1,8 @@
 # Предсказание врожденного порога сердца у детей
 
 <a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/main.ipynb'> Прогностическая модель </a> </br>
-<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/Notebook.ipynb'> Применение </a> 
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/Notebook.ipynb'> Применение </a> </br>
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/requirements.txt'> requirements.txt </a></br>
 
 main.ipynb - проект, процесс исследования и обучения модели.</br>
 Notebook.ipynb  - пример работы.</br>
@@ -15,7 +16,7 @@ tokenizer.pickle - частный словарь.
 
 Цель: написать прогностическую модель для определения вероятности врожденного порога сердца у детей. Где 0 - нет порога сердца, 1 - есть порог сердца.
 
-</br></br>Частота заполнения данных о пациенте.</br>
+</br>Частота заполнения данных о пациенте.</br>
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/df_null.png)
 
 Результат обучения моделей нейронных сетей на разных признаках.
