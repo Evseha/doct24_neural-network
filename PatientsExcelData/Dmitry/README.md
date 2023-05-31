@@ -1,4 +1,4 @@
-![](https://cdn.alltend.ru/temp/5bfadfcda6bd5.jpg)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/png/cdn_alltend_ru_pic.jpg)
 
 # Предсказание врожденного порога сердца у детей
 
