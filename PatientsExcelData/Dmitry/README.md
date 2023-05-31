@@ -1,3 +1,5 @@
+![](https://cdn.alltend.ru/temp/5bfadfcda6bd5.jpg)
+
 # Предсказание врожденного порога сердца у детей
 
 <a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/PatientsExcelData/Dmitry/main.ipynb'> Прогностическая модель </a> </br>
