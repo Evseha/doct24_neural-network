@@ -1,8 +1,8 @@
-![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/img/c6e5c47311949440d1fee4d8c6df71bf.jpg)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/c6e5c47311949440d1fee4d8c6df71bf.jpg)
 
 # Предсказание рассеянного склероза
 
-<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/main.ipynb'> Прогностическая модель </a> </br>
+<a href='https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/main.ipynb'> Прогностическая модель </a> </br>
 
 main.ipynb - проект, процесс исследования и обучения модели.</br>
 
@@ -67,8 +67,8 @@ EXCELMRI_GKB29_anon    2873
 min: (22, 192, 192) max: (768, 768)
 ```
 
-![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/img/acc.png)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/acc.png)
 
-![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/img/loss.png)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/loss.png)
 
-![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/img/cm.png)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/cm.png)
