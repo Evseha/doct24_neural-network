@@ -12,7 +12,7 @@ main.ipynb - проект, процесс исследования и обуче
 
 Цель: написать прогностическую модель для определения вероятности рассеянного склероза. Где 0 - нет склероза, 1 - есть склероз.
 
-Набора данных: <a href='https://mosmed.ai/en/datasets/aie21selftestmri/'> mosmed.ai </a> </br>
+Набор данных: <a href='https://mosmed.ai/en/datasets/aie21selftestmri/'> mosmed.ai </a> </br>
 
 ```
 folders                 dcm
