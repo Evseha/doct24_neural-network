@@ -68,6 +68,8 @@ min: (22, 192, 192) max: (768, 768)
 ```
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/2023-06-10_06-36-03.png)
 
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/subplots.png)
+
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/acc.png)
 
 ![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/Dmitry/img/loss.png)
