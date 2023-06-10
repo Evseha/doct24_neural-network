@@ -1,4 +1,4 @@
-![](https://santerramed.ru/upload/medialibrary/c6e/c6e5c47311949440d1fee4d8c6df71bf.jpg)
+![](https://github.com/salfa-ru/doct24_neural-network/blob/main/multiple_sclerosis/img/c6e5c47311949440d1fee4d8c6df71bf.jpg)
 
 # Предсказание рассеянного склероза
 
